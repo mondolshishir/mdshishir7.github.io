@@ -54,16 +54,22 @@
 
 .about{
 
-  height: 500px;
-  background-color: red;
+  height: 400px;
+  background-image:url(rm3.jpg);
  
 }
-
+.about h2{
+  margin: 120px 120px;
+  font-weight: 100;
+  font-size: 60px;
+  line-height: 125px;
+  font-family: sans-serif;
+  position:absolute;
+}
 .resume{
 
-  height: 500px;
-  background-color: green;
- ;
+  height: 400px;
+  background-image:url(resume.jpg);
 }
 
 .blog{
